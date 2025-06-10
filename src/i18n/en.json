@@ -1,0 +1,17 @@
+{
+    "home": {
+      "welcome": "Welcome to my portfolio!"
+    },
+    "about": {
+      "description": "I’m a front-end developer passionate about React."
+    },
+    "contact": {
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "Your email address",
+      "message": "Message",
+      "messagePlaceholder": "Your message",
+      "send": "Send"
+    }
+  }

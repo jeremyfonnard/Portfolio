@@ -1,0 +1,18 @@
+{
+    "home": {
+      "welcome": "Bienvenue sur mon portfolio !"
+    },
+    "about": {
+      "description": "Je suis développeur·se front-end passionné·e par React."
+    },
+    "contact": {
+      "name": "Nom",
+      "namePlaceholder": "Votre nom",
+      "email": "Email",
+      "emailPlaceholder": "Votre adresse email",
+      "message": "Message",
+      "messagePlaceholder": "Votre message",
+      "send": "Envoyer"
+    }
+  }
+  
